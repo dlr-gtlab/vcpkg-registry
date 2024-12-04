@@ -1,0 +1,4 @@
+genh5 provides CMake targets:
+
+  find_package(GenH5 CONFIG REQUIRED)
+  target_link_libraries(main PRIVATE GenH5)

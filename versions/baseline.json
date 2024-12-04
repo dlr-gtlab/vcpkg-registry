@@ -1,0 +1,12 @@
+{
+  "default": {
+    "genh5": {
+      "baseline": "3.0.3",
+      "port-version": 0
+    },
+    "gt-logging": {
+      "baseline": "4.4.1",
+      "port-version": 0
+    }
+  }
+}

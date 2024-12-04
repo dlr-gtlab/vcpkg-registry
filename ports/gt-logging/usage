@@ -1,0 +1,4 @@
+gt-logging provides CMake targets:
+
+find_package(GTlabLogging CONFIG REQUIRED)
+target_link_libraries(main PRIVATE GTlab::Logging)
